@@ -1,7 +1,7 @@
 {
   "_class": "shapeGroup",
   "clippingMaskMode": 0,
-  "do_objectID": "75186D28-B53F-4BF9-B641-32C43CCD885A",
+  "do_objectID": "D9952C5E-06ED-4FAA-A0C8-C06E9F5758DD",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,11 +13,11 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "height": 37,
-    "width": 37,
-    "x": 276,
-    "y": 207
+    "constrainProportions": false,
+    "height": 667,
+    "width": 375,
+    "x": 0,
+    "y": 0
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -28,11 +28,11 @@
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "oval",
-      "id": "5D7FD827-A013-43FA-835A-F22E5F2485B0"
+      "class": "rectangle",
+      "id": "8A8F4CDC-0240-438C-B1C9-9E0A0923EDE7"
     }
   ],
-  "name": "Oval",
+  "name": "Rectangle 2",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -63,9 +63,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.2627450980392156,
-          "green": 0.3725490196078431,
-          "red": 0.996078431372549
+          "blue": 0.1694568452380952,
+          "green": 0.0981076503384853,
+          "red": 0.1128670456149332
         },
         "fillType": 0,
         "gradient": {
@@ -100,6 +100,11 @@
           ],
           "to": "{1, 0.5}"
         },
+        "image": {
+          "_class": "MSJSONFileReference",
+          "_ref": "images/41fda71b5907dfbc5094971698e7d9a6ac8d59ad",
+          "_ref_class": "MSImageData"
+        },
         "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
@@ -109,6 +114,17 @@
     ],
     "miterLimit": 10,
     "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.invisionlabs.duplicate": {
+      "photos-duplicate": {
+        "category": "Family",
+        "icon": "diamond",
+        "index": 7,
+        "mode": "unsplash",
+        "title": "Family"
+      }
+    }
   },
   "windingRule": 1
 }
